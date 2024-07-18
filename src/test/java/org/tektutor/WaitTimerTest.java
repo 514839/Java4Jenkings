@@ -5,7 +5,7 @@ import org.junit.Test;
 import org.junit.After;
 import static org.junit.Assert.*;
 
-public class FrontendTest2 {
+public class WaitTimerTest {
 	String actualResponse;
 	String expectedResponse;
 	Frontend fe;
